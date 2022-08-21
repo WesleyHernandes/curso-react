@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    color: #FFFFFF;
+    background-color: #222222;
+    font-family: Poppins;
+    text-align: center;
+}
+
+h1, h2, h3{
+    font-weight: 500;
+}
+
+h2, h3{
+    margin: 0px;
+}
